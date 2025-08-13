@@ -84,6 +84,7 @@ p {
     border: none;
     background-color: rgb(253, 212, 0);
     font-weight: bold;
+    cursor: pointer;
 }
 
 .like {
